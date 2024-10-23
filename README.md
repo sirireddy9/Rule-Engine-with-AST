@@ -1,4 +1,3 @@
-Here's an enhanced version of your README file, tailored for clarity and ready to paste into GitHub:
 
 ---
 
